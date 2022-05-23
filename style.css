@@ -5,10 +5,16 @@
 
 h2{
     color: goldenrod;
+    font-weight: bold;
 }
 
 h3{
     font-style: italic;
+}
+
+body{
+    width: 65%;
+    margin: 0 auto;
 }
 /*fine area comune*/
 
@@ -23,12 +29,9 @@ header{
 }
 /*fine stile header*/
 
-/*stile main*/
-main{
-
+/*stile footer*/
+footer{
+    font-size: small;
+    border-top: 1px solid goldenrod;
 }
-
-span{
-    font-weight: bold;
-}
-/*fine stile main*/
+/*fine stile footer*/
